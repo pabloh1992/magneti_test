@@ -3,7 +3,7 @@ int main()
 {
     int i, j, rows;
 
-    printf("\nVersion B2 ");
+    printf("\nVersion B4 ");
     printf("Enter number of rows: ");
     scanf("%d",&rows);
 
