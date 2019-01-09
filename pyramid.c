@@ -15,5 +15,9 @@ int main()
         }
         printf("\n");
     }
+
+    printf("Additional rows: ");
+    printf("This is the end: ");
+	
     return 0;
 }
